@@ -49,3 +49,10 @@ ssh-copy-id pi@retropie.localdomain
 - You may need to hold a button on the joystick or mouse to trigger additional options in the game (Full Throttle has many options in a "wheel" once you hold the button. 
 
 ## Bluetooth Controllers
+- Is your controller cable a bit too short? RetroPie works with a variety of remote controllers, but they can be a bit tricky to set up. 
+### EASIEST SOLUTION:
+- XBox 360 controllers with the USB receiver work out of the box. Just plug in the receiver via USB and pair the controllers to it. 
+### Best bluetooth controller
+- 8bitdo makes amazing retro-styled bluetooth controllers with decent support. Their newest entry is apparently the best:
+- https://www.amazon.com/dp/B0748S1VDC?th=1
+- Setting up a bluetooth controller can be a bit of a dance, you'll need to use the RetroPie Setup menu, pick the device from the list, and then set it up to auto-connect at startup. Once you get it working after a reboot it tends to stay working, but your mileage may vary
