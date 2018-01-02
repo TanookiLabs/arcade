@@ -1,1 +1,32 @@
-# test
+## Using the Tanooki Retro Arcade
+We hope you're having fun with your Tanooki Retro Arcade! If you haven't gotten yours up and running yet, setup is easy.
+- Plug in the controllers
+- Plug in the HDMI and turn on the TV
+- Select the correct video input on your TV
+- THEN plug in the PI
+
+## Advanced Manuevers
+- The "Select" hotkey lets you do all sorts of fun stuff. 
+- Select + Right-Shoulder will create a "save state" of exactly where you are in the game. 
+- Select + Left-Shoulder reloads that save state. Handy for beating tough sections of a game!
+- Select + Right/Left will change which "save state slot" you're using. You can create multiple save states! 
+- I sometimes save crucial moments in both Save State Slot 0 and 1 in case I accidentally save over state 0. 
+
+## Something went wrong!
+- Have you tried turning it off and on again ;)
+- If your controller gets misconfigured, hit Start -> Configure input and go through the setup process again. Just hold any button to skip the controls you down have on that controller. 
+
+## Shutting down the retro arcade
+- The best way to shut down your arcade is to hit start, then go to "shutdown" on the menu. Once it's off, you can unplug it. 
+- If you're in a hurry, you can just unplug it, but that has a small possibility of corrupting your SD card. If that happen, we can rewrite it, but it's a small pain (16gb download and writing the SD card)
+
+## What's "ScummVM" ?
+- Scumm as the scripting language that LucasArts created their games in, and covers everything from Maniac Mansion and Day of the Tentacle up through Monkey Island, Full Throttle, Sam and Max and more. These were some of the best games for PC in the 90s, and they're funny, challenging, and smart.
+- You'll need a keyboard and mouse to play these games!
+- Hit F5 to bring up a system menu which will let you change options and exit the game if needed
+- You may need to hold a button on the joystick or mouse to trigger additional options in the game (Full Throttle has many options in a "wheel" once you hold the button. 
+
+## Adding more Games (roms) 
+- So you're really into this thing and want to add some more games? Awesome! You can load up everything from Atari, Amiga, C64, and more. BUT, many computer based systems are a bit harder to get to work easily with joystick only and will require keyboard and mouse as well, which is why I left them out of the default build. 
+
+## Bluetooth Controllers
